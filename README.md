@@ -1,1 +1,3 @@
-# advanced-lane-line-detection
+# Advanced Lane Line Detection
+
+This project implements a robust lane line detection algorithm.
