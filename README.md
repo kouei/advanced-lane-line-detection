@@ -103,10 +103,6 @@ I implemented this step in cell 22 ~ 25 in my code in `find_lane_line.ipynb` in 
 
 ---
 
-### Pipeline (video)
+### Example
 
-<video id="video" controls="" preload="none" poster="./examples/example_output.jpg">
-<source id="mp4" src="./project_video_output.mp4" type="video/mp4">
-</video>
-
----
+![example_gif][example_video_alld.gif]
