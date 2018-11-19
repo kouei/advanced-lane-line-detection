@@ -105,4 +105,4 @@ I implemented this step in cell 22 ~ 25 in my code in `find_lane_line.ipynb` in 
 
 ### Example
 
-![example_gif][example_video_alld.gif]
+![example_gif](example_video_alld.gif)
